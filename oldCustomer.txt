@@ -1,0 +1,7 @@
+
+Customer ID : 134
+Name : Savan
+Age : 20
+MobileNo : 909090
+Address : H1/902
+Gender : M
